@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/betawins/Hiring-app-argocd.git
+    repoURL: https://github.com/ghouse0701/argo-cd.git
     targetRevision: HEAD
     path: dev
   destination: 

@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ghouse0701/sample:42
+        image: ghouse0701/sample:44
         ports:
         - containerPort: 8080
